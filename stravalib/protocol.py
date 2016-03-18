@@ -8,6 +8,7 @@ import logging
 import urlparse
 import functools
 from urllib import urlencode
+import functools
 
 import requests
 
